@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+
+    <resources>
+
+    <string name="app_name">Smooth Expand/Collapse RecyclerView</string>
+
+    <string name="more_info">More Information</string>
+
+    <string name="less_info">Less Information</string>
+
+    <string name="title">An another Application name</string>
+
+    <string name="ezreal">An example Application name</string>
+
+    <string name="ezreal_label">Short description: Lorem ipsum dolor sit amet...</string>
+
+    <string name="ezreal_story">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet ligula sem. Nulla nisi elit, cursus faucibus nisl sed, congue eleifend dolor. Aliquam nec porta arcu. Praesent consequat luctus justo ut gravida. Quisque turpis diam, rutrum nec nisl sit amet, congue vestibulum lorem. Nam faucibus aliquam enim eleifend porttitor. In eget rhoncus mi, vitae bibendum ex. Proin facilisis egestas urna. Nunc accumsan interdum sapien. Aenean gravida tortor at massa fermentum, et sollicitudin sapien rutrum. Praesent at mattis est. Donec at quam eros. In eleifend sapien nec ex placerat scelerisque. Suspendisse semper sapien eget libero sagittis rutrum.</string>
+
+    <string name="jinx_label">Primary role : Marksman (ADCarry) \nSecondary role : N/A</string>
+
+    <string name="jinx_story">Morbi aliquet id augue non pretium. Maecenas at augue lectus. Suspendisse eget malesuada ligula, vitae tincidunt purus. Nunc tortor augue, sollicitudin eget enim quis, gravida tempus tellus. Sed interdum magna vehicula rutrum interdum. Nunc in imperdiet nisl. Suspendisse tempus lorem eget elementum placerat. Cras felis odio, ornare eu purus id, accumsan pharetra odio. Etiam vel semper dolor. Suspendisse facilisis purus at enim euismod tempor.</string>
+
+</resources>
